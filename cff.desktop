@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=CFF
+Comment=Train schedule in Switzerland
+Type=Link
+URL=https://www.sbb.ch/fr/horaire.html
+Icon=/home/???/Pictures/icons/cff.png
+# Modify '???'
+# Note: it does not display the icon despite what you might expect from the
+# desktop specification. Instead, open Properties of `cff.desktop`, left-click
+# the icon and set it to your icon
